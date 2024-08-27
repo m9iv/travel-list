@@ -1,4 +1,4 @@
-# Pizza Menu
+# Travel list
 
 Small and simple project which helps to add necessary things for the future trip.
 
